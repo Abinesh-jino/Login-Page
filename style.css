@@ -108,13 +108,6 @@ body{
         border-radius: 50%;
     }
 }
-h1{
-    text-align: center;
-    padding: 140px;
-}
-span{
-    color: red;
-}
 /*===== Glass =====*/ 
 .login-box{
     position: absolute;
